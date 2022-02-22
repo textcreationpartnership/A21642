@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A note of certaine necessarie actes mencioned in the Quenes Maiestyes proclamation, besyde a collection of certayne others, publyshed the laste yeare, and nowe to be all executed</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21642</idno>
+            <idno type="STC">STC 7951.3</idno>
+            <idno type="STC">ESTC S2585</idno>
+            <idno type="EEBO-CITATION">24342583</idno>
+            <idno type="OCLC">ocm 24342583</idno>
+            <idno type="VID">27543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27543)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1850:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A note of certaine necessarie actes mencioned in the Quenes Maiestyes proclamation, besyde a collection of certayne others, publyshed the laste yeare, and nowe to be all executed</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at London in Powles Churchyarde by Richarde Iugge and Iohn Cawood [i.e. B. Norton and J. Bill] ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[ca. 1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"By the Privy Council"--STC (2nd ed.).</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; publishers and date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Pertains to statutes regulating apparel as well as horse trade.</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:27543:1" rendition="simple:additions"/>
+            <head>¶ <hi>A note of certaine neceſſarie Actes mencioned in the</hi> Quenes Maieſtyes Proclamation, beſyde a Collection of certayne others, publyſhed the laſte yeare, and nowe to be all executed.</head>
+            <div type="part">
+               <head>Firſt concerning the Actes remaining in force for apparell.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Statute made in the xxiiii. yeare of King Henry the viii, for reformation of the abuſe of Apparel remaining nowe in force, conteineth ſo many articles and clauſes, as the ſame can not be conueniently abrydged, but is to be conſidered bi readyng and peruſyng the whole Act at large. But the Statute lately made in the time of kyng Philip and Quene Mary: For execution whereof (as for that which at thys time is moſt neceſſary) Articles and orders be preſently deuiſed, followeth here abridged.</p>
+               <p>
+                  <note place="margin">Anno. i. &amp;. ii.</note>NO Engliſh man, other then the ſonne and heyre apparaunt of a knight or he that hath yeerely reuenues of xx. li. or is worth in goods,<note place="margin">Phi. &amp; Mar. Cap. ii.</note> cc. li. ſhall weare ſilke in or vpon his hatte, cap, night cappe, girdles, ſcabbarde, hoſe, ſhooes, or ſpurre lethers, vpon forfaiture of x. li. for euery day, and impryſon<g ref="char:EOLhyphen"/>ment by three moneths.</p>
+               <p>Iuſtices a Aſſiſe and of the peace, ſheriffes, ſtewardes in Letes, head officers of townes corporate, ſhall en<g ref="char:EOLhyphen"/>quyre and determine the offences, and commyt thoffendour to priſon, tyll he haue payd the forfayture.</p>
+               <p>If any knowyng his ſeruaunt to offende, do not put hym out of his ſeruice within xiiii. dayes, or ſo put out, retaine hym agayne within a yeare after ſuch offence, he ſhall forfayt C. li.</p>
+               <p>Any aboue the degree of a knightes ſonne, or doughter, or wyfe to any of them, or Maior, or head offycer in any towne corporate, or wyfe to any of them, or the kyng, or the Quenes ſeruauntes in ordinary wages atten<g ref="char:EOLhyphen"/>daunt, wearyng ordinary liueries, may weare as they myght before.</p>
+               <p>None ſhall be compelled to put a way his apprentice or hyred ſeruaunt before thend of his terme.</p>
+               <p>Women may weare in theyr hattes, cappes, gyrdles and hoodes, as they myght before.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the increaſe and breedyng of Horſes, Geldyngs and Mares.</head>
+               <p>
+                  <note place="margin">xxvii. H. viii, Ca. vi.</note>
+                  <seg rend="decorInit">E</seg>Very perſon, of what eſtate or degree ſoeuer he be, hauyng a Parke or ground incloſed, wherein any Deere is or vſually kept for game, &amp; not lying within the counties of Weſtmerland, Commerland, Northumberland, and the Byſhopricke of Dureſme, containyng the quantitie of one myle in com<g ref="char:EOLhyphen"/>paſſe, and is thereof ſeaſed in fee ſymple<g ref="char:punc">▪</g> fee taile, or for terme of life in poſſeſſion to his owne profite and behoofe: And euery Fermour of euery ſuch parke or ground incloſed, ſhal keepe two Mares, be<g ref="char:EOLhyphen"/>yng not ſpayd,<note place="margin">Mares.</note> apt and hable to beare foales, &amp; ech of them of xiii. handfuls in heyght at the leaſt, to be meaſured from the loweſt part of the hoofe of the fote, vnto the hyeſt part of the ſhoulder, vpon paine of xl. s. for euery mo<g ref="char:EOLhyphen"/>neth. And for euery parke of iiii. miles compaſſe and more,<note place="margin">The heyght of the Mares</note> iiii. like mares, and of the like height. And that thow<g ref="char:EOLunhyphen"/>ners of ſuch ground ſhall not wyllyngly ſuffer the ſame Mares to be couered with any horſe vnder xiiii. hand<g ref="char:EOLhyphen"/>fuls in height vpon like paine.</p>
+               <p>
+                  <note place="margin">xxxii. H. viii. Ca. xiii. Stoned horſe.</note>No ſtoned Horſe beyng aboue the age of ii. yeares, and not beyng of the heyght of xv. handefulles, to be mea<g ref="char:EOLhyphen"/>ſured from the loweſt part of the hoofe of the forefoote, vnto the heygheſt part of the wyther, and euery handfull to conteyne iiii. ynches ſhalbe put to paſture in any forreſt, chaſe, moore, maryſh, heath, comen or waſt grounde, vpon payne of forfeyture of the ſayde horſe or horſes.</p>
+               <p>
+                  <note place="margin">Seaſour.</note>And it ſhalbe lawefull to euery perſon and perſons that ſhall fynde any ſuch horſe or horſes contrarye to the fourme of this Statute, to ſeaſe the ſame horſe in maner and forme as in the ſame ſtatute is preſcrybed. And to retayne the ſame horſe or horſes to his owne vſe, and as his owne proper goods and cattels for euer.</p>
+               <p>
+                  <note place="margin">Foreſtes, Chaſes, Comons. &amp;c ſhalbe dry<g ref="char:EOLhyphen"/>uen.</note>And all Foreſtes, Chaſes, Comons, Mores, Marſhes, Heathes, and waſt groundes wythin this Realme of Englande, Wales, and the Marches of the ſame, ſhalbe dryuen yearelye at the feaſt of S. Michaell tharchan<g ref="char:EOLhyphen"/>gell, or within xv. dayes then nexte after, by the Lordes or poſſeſſions of the ſayde foreſtes and chaſes, or by thofficers of the ſame, and by the Conſtables, headborowes, Baylyffes, Burſholders and Tithingmen, wyth in whoſe offyces and limittes the comons, moores mary ſhes, heathes, and waſte groundes, beynge out of fo<g ref="char:EOLhyphen"/>reſtes and chaſess, be or lye, vpon the<note place="margin">Payne.</note>payne of xl. s. And it ſhalbe lawful to euery of the ſayd offycers and other the ſayde perſonnes to make lyke dryfte of the ſayde foreſtes, chaſes, comons, moores, maryſhes, heathes, and waſte groundes at any other ſeaſon or tyme of the yeare, when they ſhall thynke mete and conueniente. <note place="margin">Mare, killed. Gelding. Enquiri.</note>And yf in any of the ſayd dryftes ther ſhalbe founde anye mare, fyllie, fole, or geldinge, that ſhal be then thought not able, nor lyke to growe to be able to beare foles of reaſonable ſtature, or not hable nor lyke to grow to do profitable labour and ſeruice, by the diſcretion of the dryuers, or of the more number of them: that then the ſayd dryuer or dryuers ſhal cauſe the ſame vnprofitable beaſtes to be killed. And all Iuſtices of peace in theyr quarter ſeſſions, and all Stewardes of Leetes and lawdayes, haue aucthoritie to enquyre of all the defaultes, omiſſions, contemptes and offences contrary to thys ſtatute.</p>
+            </div>
+            <div type="part">
+               <list>
+                  <head>For the hauynge and kepyng of Horſes and Geldynges. And for the furnyture and hauyng of Armour and weapon.</head>
+                  <item>
+                     <note place="margin">iiii. &amp; v. Phi. &amp;. Ma. Ca. ii A thouſande pounde in landes by yeare.</note>EVery temporal perſon hauying honours, Lordeſhyppes, manous, houſes, landes, medowes, paſtures or woods, of eſtate of enheritaunce or free holde, to the cleer yerely value of a thouſande pounde and aboue, ſhall haue, fynde, kepe, and maynetayne within thys Realme of Englande, and of theyr owne proper, and, at theyr owne coſtes and charges .vi. horſes or geldynges hable for Dimilaunces, whereof three of thyem at
+<pb facs="tcp:27543:2" rendition="simple:additions"/>the leaſt to be Horſes with ſufficient Harnes, ſteele Saddle, and Weapon, requiſite and appertayning to the ſaid Dimilaunces Horſes, or Geldings: and ten light Horſes or Geldinges hable and mete for light horſmen, with the furniture of Harnes and Weapon, requiſite for the ſame. And .xl. Corſlettes furniſhed .xl. Almayne Ryuettes: or in ſtede of the ſayd Almayne Ryuettes .xl. Cotes of plate, Corſlettes or Brygandines furniſhed .xl. Pykes .xxx. longe Bowes .xxx. ſheafe of Arrowes .xxx. ſteele cappes or ſkulles, xx. blacke Bylles or Hal<g ref="char:EOLhyphen"/>berdes .xx. Haquebuttes, and xx. Murryons or ſallettes.</item>
+                  <item>
+                     <note place="margin">
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>Item euery like perſon hauinge like poſſeſſions to the yeerely value of one M. markes or aboue, M. Markes <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n lands by <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he yeare.</note> and vn<g ref="char:EOLhyphen"/>der the yeerely value of a thouſand poundes, ſhall haue and fynde as is aboueſayde .iiii. Horſes or Geldynges hable for Dimilaunces, wherof two at the leaſt to be Horſes ſufficiently furniſhed, for Dimilaunces Horſes, or Geldinges: and vi. lyght Horſes mete for lyght horſmen, with furniture requiſite for the ſame. And of Armour and weapon .xxx. Corſlettes furniſhed .xxx. Almaine Ryuettes, or in ſtede of them .xxx. Cotes of plate, Corſlettes or Brygandines furniſhed .xxx. Pikes .xx. longe Bowes .xx. ſheafes of Arrowes .xx. ſtele Cappes or ſkulles, blacke Bylles or Halberdes .x. Haquebuttes, and x. Murrions or ſallettes.</item>
+                  <item>
+                     <note place="margin">Foure C. pound <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n landes by <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he yeare.</note>Item euery ſuch perſon hauinge poſſeſſions as is aboueſayd, to the cleare yeerely value of iiii. C. li. or aboue, and vnder the cleare yeerely value of one. M. markes, ſhall fynde and mayntayne in forme as is afore<g ref="char:EOLhyphen"/>ſaid, two Horſes, or one Horſe, and one Geldinge hable for Dimilaunces, and iiii. Geldinges hable for light horſmen, and xx. Corſlettes xx. Almayne Ryuettes: or in lew of them xx. Cotes of plate, Corſlettes or Bry<g ref="char:EOLhyphen"/>gandines furniſhed xx. Pykes .xv. longe Bowes .xv. ſheafes of Arrowes .xv. ſteele Cappes or ſkulles .vi. Ha<g ref="char:EOLhyphen"/>quebuttes, and vi. Murryons or ſalettes.</item>
+                  <item>
+                     <note place="margin">Two C. pound <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n landes by <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he yeare.</note>Item euery ſuch perſon hauinge poſſeſſions to the cleare yerely value of ii. C. li. or aboue, and vnder the yerely value of iiii. C. poundes, ſhal haue, kepe and maintaine one great Horſe or Gelding hable for a Dimi<g ref="char:EOLhyphen"/>launce, and two Geldinges hable for light horſmen furniſhed with Harnes, ſteele Saddle, and weapons for the ſame, ſufficient as is aforeſaid. And in Ar<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>our .x. Corſlettes .x. Almayne Ryuettes, or in the place of Al<g ref="char:EOLhyphen"/>mayne Ryuettes .x. cotes of plate, Corſlettes, or Brygandines .x. Pykes .viii. longe Bowes .viii. ſheafes of Arrowes .viii. ſteele Cappes or ſkulles .iii. Haquebu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tes, and thre Murryons or ſalettes.</item>
+                  <item>
+                     <note place="margin">One C. pound <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n landes by <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he yeare.</note>Item euery ſuch perſon hauing ſuch poſſeſſions to the yearely value of one hundreth poundes or aboue, and vnder the yerely vallue of two C. li. ſhal fynde, kepe, and mayntaine in fourme aforeſaid, two Geldinges mete for light norſmen, three Corſlettes, thre Almayne Ryuettes: or in ſtede of them, ſo many Cotes of plate, Corſlettes, or Brygandines, thre Pykes, thre longe Bowes, three ſheafes of Arrowes, thre ſteele Cappes or Skulles, two Haquebuttes, two Murryons or Salettes.</item>
+                  <item>
+                     <note place="margin">One C. Mar<g ref="char:EOLhyphen"/>kes in landes <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y the yeare.</note>Item euery ſuch perſon hauinge landes as is aforeſayd to the cleare yearly value of one. C. markes or aboue, and vnder the yerely value of one hundreth poundes, ſhal haue and kepe one Gelding hable for a light horſman with a Harnes, and Weapon requiſite for the ſame, two Corſlettes furniſhed, two Almayne Ryuet<g ref="char:EOLhyphen"/>tes: or in ſtede of the ſame, two Cotes of plate or Brygandines, two Pykes, two longe Bowes, two ſhea<g ref="char:EOLhyphen"/>fes of Arrowes, two ſteele Cappes, or Skulles, one Haquebut, one Murrion or Sallet.</item>
+                  <item>
+                     <note place="margin">Fortie pound in landes by the yeare.</note>And euery ſuche perſon hauinge ſuche poſſeſſions to the yerely value of xl. li. or aboue, and vnder the yerely value of one hundreth markes, ſhal haue and kepe two Corſlets, two Almaine Riuettes: or in the ſtede of the ſame, two Cotes of plate, Corſlettes or Brygandines furniſhed, two Pikes, one longe Bowe, one ſheafe of Arrowes, one ſtele Cappe or Skull, two Haquebuttes, two Murryons or ſalettes.</item>
+                  <item>
+                     <note place="margin">Twentie pou<g ref="char:cmbAbbrStroke">̄</g>d in landes by the yeare.</note>Item euery ſuch perſon hauinge poſſeſſions to the yerely value of xx. li. or aboue, and vnder the yere<g ref="char:EOLhyphen"/>lye value of xl. li. ſhall haue and kepe one Corſlet, one Pyke, one Haquebut, one Murryon or Sallet, one longe Bowe, one ſheafe of Arrowes, one ſteele Cappe, or ſkull.</item>
+                  <item>
+                     <note place="margin">Ten pound in landes by the yeare.</note>Item euery perſon hauinge poſſeſſions to the yerely value of x. li. or aboue, and vnder the yerely value of xx. li. ſhal haue &amp; kepe, one Almaine Riuet: or in the ſtede therof, one cote of plate, or one Brygandine, one Haquebut, one Murryon or ſallet, one longe Bowe, one ſheafe of Arrowes, and one ſteele Cappe or ſkull.</item>
+                  <item>
+                     <note place="margin">Fiue pound in landes by the yeare.</note>Item euery perſon that hath poſſeſſions to the cleare yerely value of v. li. or aboue, and vnder the yere<g ref="char:EOLhyphen"/>ly value of x. li. ſhall haue and kepe one cote of plate, one blacke Byll, or Halberde, one longe Bowe, one ſheafe of Arrowes, and one ſteele Cappe or ſkull.</item>
+                  <item>
+                     <note place="margin">One thouſande Markes in goodes.</note>Item euery ſuch perſon hauinge goodes or Cattelles to the value of one thouſand markes or aboue, ſhal haue, fynde and kepe in maner and fourme aforeſayde, one Horſe or Geldinge hable for a Dimilaunce, with ſteele Saddle, Harnes, and Weapon requiſite for the ſame, and alſo one Geldynge hable and mete for a lyght horſeman, with Harnes and Weapon requiſite for the ſame. Or els xviii. Corſlettes furniſhed in ſtede of the ſayde Horſe or Geldynge at his choyſe. And alſo ſhal haue, kepe and fynde two Corſlettes, two Almayne Ry<g ref="char:EOLhyphen"/>uettes, or elles in ſtede of the ſame Almayne Ryuettes two Cotes of plate, two Corſlettes, or two Brygan<g ref="char:EOLhyphen"/>dines, two Pykes, foure long Bowes, foure ſheafes of Arrowes, foure ſteele Cappes or Skulles, thre Haque<g ref="char:EOLhyphen"/>buttes, thre Murryons or Salettes.</item>
+                  <item>
+                     <note place="margin">Foure C. pound in goodes.</note>Item euery ſuch perſon hauing goodes or cattelles to the value of foure. C. li. or aboue, and vnder the value of one. M. markes, ſhal haue, fynde and kepe one Geldyng able and mete for a light horſman, with all Harnes and Weapon requiſite for the ſame. Or elles at theyr choyſe, nyne Corſlettes good and hable for the fielde furniſhed. And alſo ſhall haue and fynde one Corſlet, one Pyke, two Almayne Ryuettes, Cotes of plate, or Brygandines, one Haquebut, two longe Bowes, two ſheafes of Arrowes, and two ſteele Cappes or Skulles.</item>
+                  <item>
+                     <note place="margin">Two C. pound in goodes.</note>Item euery ſuch perſon hauyng in goodes or cattelles to the value of two C. li. or aboue, and vnder the value of iiii. C. li. ſhal haue, kepe and fynde, one Corſlet, one Pyke, two Almayne Ryuettes, Cotes of plate or Brigandines, one Haquebut, one Murrion or ſalet, two longe Bowes, two ſheafes of Arrowes, and two Skulles or ſteele Cappes.</item>
+                  <pb facs="tcp:27543:3" rendition="simple:additions"/>
+                  <item>
+                     <note place="margin">One C. pound in goodes.</note>Item euery perſon hauyng in goods and Cattelles to the value of one C. li. or aboue, and vnder the value of two C. li. ſhall kepe and fynde, one Corſlet, or Pyke, one payre of Almayne ryuets, one cote of plate or one payre of Brigandines, two longe Bowes, two ſheafes of Arrowes, and two Skulles.</item>
+                  <item>
+                     <note place="margin">Fortie pound in goods.</note>Item euery perſon hauing in goodes or cattelles the value of xl. li. or aboue, and vnder the value of one C. li. ſhal kepe and fynde two payre of almayne ryuettes, or two cotes of plate, or brygandynes, one long bowe, one ſheafe of arrowes, one ſteele Cappe or Skull<g ref="char:punc">▪</g> and one blacke bill or halberde.</item>
+                  <item>
+                     <note place="margin">Twenty pound in goods.</note>Item euery ſuch perſon hauinge in goods and cattels the value of xx. li. or aboue, and vnder the value of forty pounds, ſhall kepe and fynde one payre of almayne ryuettes, eyther one cote of plate, or els one payre of Brygandynes, two long Bowes, two ſheafes of Arrowes, two ſkuls, or ſteele Cappes, and one blacke Byll or Halbarde.</item>
+                  <item>
+                     <note place="margin">Ten pound in goodes.</note>Item euery perſon hauinge in value of goodes &amp; cattelles .x. li. or aboue, and vnder the value of xx. li. ſhall kepe and fynd one long bowe, one ſheafe of arrowes<g ref="char:punc">▪</g> one ſteele Capp. or ſhull, and one blacke byll or Halberde.</item>
+               </list>
+               <p>
+                  <note place="margin">Annuitie. Terme of life. Inheritaunce. Copiholde to the yerely value. Wiues ap<g ref="char:EOLhyphen"/>parell.</note>And euery perſon or perſons hauinge at thys preſent, or hereafter ſhall haue any annuitie or yearelye fee, or any copy holde, for terme of lyfe, or inheritance, not charged by thys acte, to the cleare yearely value of thyrtye pounde or aboue: ſhall kepe and fynde ſuch furniture of Armour and weapons in euerye degree, accordynge to the proportions and rates before expreſſed, limitted for goodes and cattels.</p>
+               <p>Item that euery perſon which by vertue of the Acte, made in the xxxiii. yeare of the raygne of king H. viii. Cap. v. was bounde (by reaſon that his wyfe ſhould weare ſuch apparell or other thing, as in the ſayde Sta<g ref="char:EOLhyphen"/>tute is ſpeciallye mentioned and declared) to kepe or fynde one greate ſtoned trotting horſe, and is not by this Acte before charged to haue, keepe and maintayne any horſe or gelding: ſhal by force of this acte, be bounde to kepe and to haue and mayntayne one Gelding hable and mete for a lyghte horſeman, with ſufficiente har<g ref="char:EOLhyphen"/>neſſe, and weapon for the ſame, in ſuch maner and fourme as euerye temporall perſonne hauinge landes as is aforeſayde, of the clere yerelye value of one hundred markes, is charged and appointed to haue and mayntayne by thys preſent acte.</p>
+               <p>
+                  <note place="margin">Forfeyture.</note>And yf anye of the perſonnes aboue remembred, ſhall by the ſpace of three hole monethes, wante the ſayd numbre and kindes of horſes, geldinges, armoure, weapon, and furnyture aforeſayde, after ſuch rate, propor<g ref="char:EOLhyphen"/>tion and fourme as is afore lymytted: that then euerye ſuch perſon ſhall forfayte and loſe for euery ſuche three monethes for euerye horſe or geldinge ſo lackynge, ten poundes: for euerye Dimilaunce and furniture of the ſame, three poundes: And for euery Corſlet and furniture of the ſame .xl s. And for euery almayne ryuet, coat of plate or Brigandine, xx s. And for euery Bow, ſheafe of arrowes. Bill, haulberd, haquebut, ſteele Cappe, ſkull morryon, and Sallet .x. s.</p>
+            </div>
+            <div type="part">
+               <head>Agaynſt the carrying and conueying of Horſes and Mares oute of thys Realme.</head>
+               <p>
+                  <note place="margin">An. xi. H. vii. Cap. xiii.</note>
+                  <seg rend="decorInit">N</seg>One ſhall carry or conuey out of the realme any horſe, or anye Mare, the price of which Mare ſhalbe aboue vi. s. viii. d. and vnder the age of three yeres, without licence:<note place="margin">Forfayture.</note>vpon payne of forfeyture of the ſame horſe and mare. Neuertheleſſe euery ſubiect of this realme may carry any ſuch horſe for theyr owne vſe, taking an othe before the Cuſtomer of the porte where he embarketh, that he entendeth not to ſell the ſame horſe.</p>
+               <p>
+                  <note place="margin">An. i. Ed. vi. Cap. v.</note>None ſhall ſell, conueye, exchaunge, geue or deliuer into the Realme of Scotlande to the vſe of any Scot<g ref="char:EOLhyphen"/>tiſheman, or into any place beyonde the Sea out of this Realme, any horſe, Geldynge, or Mare, without ſpeci<g ref="char:EOLhyphen"/>all licence vnder the great Seale, or vnder the priuie Signet, nor ſhal ſell, conueye, exchaunge, geue, or deliuer to any Scottyſhman within this realme, or the marches of the ſame, to thintent to be conueied into Scotland any horſe, mare, or Gelding, without like licence,<note place="margin">Forfayture.</note>vpon payne of forfeyture of the ſame horſe, mare, or Gelding, and the ſum of xl. li. for euery ſuch horſe, gelding, or mare, &amp; to ſuffer impriſonment by the ſpace of one hole yere.</p>
+               <p>
+                  <note place="margin">Arreſt and impryſon.</note>And it ſhalbe lawfull to euery ſubiect of this Realme to arreſt &amp; impriſon euery Scotyſhman, &amp; euery other perſon that ſhall leade or conuey (contrary to the meaning of thys Act) any ſuch horſe, gelding, or mare. And that euery perſon that ſhall haue ſuch licence to carry any ſuch horſes, mares or geldings into Scotland, ſhal, before the ſayd carrying or conueiaunce of them, vpon the payne of forfaiture of the ſame, or the double va<g ref="char:EOLhyphen"/>lue therof, ſhew his ſayd licence to one of the wardens of the three marches of England, for anempſt Scotland<note place="margin">The licence to be kalen<g ref="char:EOLhyphen"/>dred.</note>to thintent that one of them ſhal cauſe the numbre of the ſayd horſes, mares, or geldyngs, not onely to be kalen<g ref="char:EOLhyphen"/>dred in a booke remayning in his owne cuſtody: but alſo to be indorſed &amp; wrytten on the backſyde of the ſayd licence, and the ſame indorſement to be ſigned with the hand of the ſayd Warden.</p>
+               <p>
+                  <note place="margin">An. xxiii. H viii. Ca. xi.</note>Yf any perſon ſhal exchaunge or deliuer within the Realme of Scotlande, or in any place or grounde called the Batable lande, or grounde betwene Englande and Scotlande, to the vſe of any Scotyſhman any horſe, gelding, or mare, without licence vnder the great ſeale, or ſel, exchaunge or deliuer to any Scotiſhman within the realme of Englande, Wales, the towne of Barwike, or the marches of the ſame, or in any of the ſayd Bata<g ref="char:EOLhyphen"/>ble grounde,<note place="margin">Felonye. An. i. Eliz. Reg. Cap. viii.</note> any horſe, Geldyng or mare, to thintent to be conueyed into Scotlande, without like licence, ſhal<g ref="char:EOLhyphen"/>be adiudged and demed by the law a felon.And this offence is made felony, aſwel in the ſeller, exchanger, or de<g ref="char:EOLhyphen"/>liuerer as in hym or them to whom the ſayd ſale, exchaunge, or deliuery ſhalbe made.</p>
+               <p>The Wardens of the three Marches in theyr warden courtes, and the Iuſtices of peace in their quarter ſeſſions, ſhal inquire, heare and determine any ſuch felony.</p>
+               <p>
+                  <note place="margin">xxiii. H. viii. Cap. xvi. Arreſt.</note>And it ſhalbe lawefull to euery ſubiect of the realme, and inhabiting on the foreſayd Marches for anempſt Scotland, to arreſt any Scottiſhman, leading or conueying any ſuch horſe, gelding or mare out of the realme.</p>
+               <p>And although this laſt reſited Statute of xxiii. H. viii. was repealed by the ſeuerall Statutes of An. i. Ed. vi. &amp; An. i. Regi. Marie: Yet it is now fully reuiued by the Statute of Anno. i. Eliza. Regine. Cap. viii.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London in Powles Churchyarde by Richard Iugge and Iohn Cawood, Printers to the Quenes Maieſtye.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
